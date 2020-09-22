@@ -1,0 +1,2 @@
+uname_mail = ""
+pwd = ""
